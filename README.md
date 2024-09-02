@@ -9,7 +9,7 @@ It may be helpful to refer to the SQL Zoo exercises for guidance as you work
 through these problems. Also make sure to reference the past Active Record
 readings as well as the [Active Record docs][active-record-docs].
 
-## Learning goals
+## Learning goals for Kaefa Kanneh
 
 By the end of this project you should be able to
 
